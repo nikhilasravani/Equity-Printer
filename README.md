@@ -10,13 +10,5 @@ If all numbers are different print text "All numbers are different".
 
 Otherwise print "Neither all are equal or different".
 
-EXAMPLES OF INPUT/OUTPUT:
-
-printEqual(1, 1, 1); should print text All numbers are equal
-printEqual(1, 1, 2); should print text Neither all are equal or different
-printEqual(-1, -1, -1); should print text Invalid Value
-printEqual(1, 2, 3); should print text All numbers are different
-NOTES
-
  The printEqual method needs to be defined as public static like we have been doing so far in the course.
  Do not add main method to solution code.
